@@ -1,0 +1,312 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [:react-native-maps] /Users/imgstudios/my-first-app/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-navigation] /Users/imgstudios/my-first-app/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-20:12
+MERGED from [:react-native-vector-icons] /Users/imgstudios/my-first-app/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/d1cc8a18c14407a0d66f330ac50ffa64/AndroidManifest.xml:2:1-15:12
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/26327916641792104f4cfb466ad6579d/AndroidManifest.xml:2:1-14:12
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/364b2d003c131dc1a010eabea614ee61/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/dc5cc353519c84e18901349e881de746/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9bf45933c2ffd98b560bacd64defe904/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/a9fe597bc71d6a46c0262f847a40d5d9/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/62fcf9a46b125ca7e5d764867674e101/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/ae2a8fc8d75bccf3ede158c1f6521a0e/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/27dc4593272a4ebf5a5f18cb1c2aaeb5/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/bff07e2ddf4213b410710003e60df2da/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:transition:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/a3663ab1ee610b5b681909e174613a13/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/4fcf13cae5b577e0b2a603d00f3714cc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/6cf3b4bf344efdd10a64c203ed0070cb/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/f5575d076361bc4506f1639a631677f0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/507a4dacc0821030410a90c1a4e7df8b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/063d117b72dfd43da187fcda389aef12/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/8cf08c2b9f5c0e395ab5097a04285646/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/0062f05550f21b860ac0cd95c6e84ab1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/c7a7b188fc21dd267a355df5cde4ea55/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/b99d8e5594423e8a6955d2fd171e3647/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/437d190856d80a99c64fe89ed26868a6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/2e2be8ffe29ee4701dc7415c57a8de25/AndroidManifest.xml:17:1-26:12
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/3d9226f77c01c2d51a9aff75742c990c/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/bd3cf253a4e308c4d09cccde1b2eec3b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/25ebd6078086c5cd8f9928e9826caec0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/e46813fc4caadd2ab6c0fc04bbd17770/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/7138f7691f4b86384e4311d67c214c00/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/227c6a44ea2b814989c3039441497c13/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/37a165c1ab8b2f34dd498402c22734fd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/2784fc4dfe76b7fb14682741fa6c92ad/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:1:1-30:12
+	package
+		ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:2:5-29
+		INJECTED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-maps] /Users/imgstudios/my-first-app/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/imgstudios/my-first-app/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/a9fe597bc71d6a46c0262f847a40d5d9/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/a9fe597bc71d6a46c0262f847a40d5d9/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/d1cc8a18c14407a0d66f330ac50ffa64/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/d1cc8a18c14407a0d66f330ac50ffa64/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:7:5-28:19
+MERGED from [:react-native-navigation] /Users/imgstudios/my-first-app/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
+MERGED from [:react-native-navigation] /Users/imgstudios/my-first-app/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/d1cc8a18c14407a0d66f330ac50ffa64/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/d1cc8a18c14407a0d66f330ac50ffa64/AndroidManifest.xml:13:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/26327916641792104f4cfb466ad6579d/AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/26327916641792104f4cfb466ad6579d/AndroidManifest.xml:12:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/364b2d003c131dc1a010eabea614ee61/AndroidManifest.xml:11:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/364b2d003c131dc1a010eabea614ee61/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/dc5cc353519c84e18901349e881de746/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/dc5cc353519c84e18901349e881de746/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9bf45933c2ffd98b560bacd64defe904/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9bf45933c2ffd98b560bacd64defe904/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/a9fe597bc71d6a46c0262f847a40d5d9/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/a9fe597bc71d6a46c0262f847a40d5d9/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/62fcf9a46b125ca7e5d764867674e101/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/62fcf9a46b125ca7e5d764867674e101/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/ae2a8fc8d75bccf3ede158c1f6521a0e/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/ae2a8fc8d75bccf3ede158c1f6521a0e/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/27dc4593272a4ebf5a5f18cb1c2aaeb5/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/27dc4593272a4ebf5a5f18cb1c2aaeb5/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/bff07e2ddf4213b410710003e60df2da/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/bff07e2ddf4213b410710003e60df2da/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:transition:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/a3663ab1ee610b5b681909e174613a13/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/a3663ab1ee610b5b681909e174613a13/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/4fcf13cae5b577e0b2a603d00f3714cc/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/4fcf13cae5b577e0b2a603d00f3714cc/AndroidManifest.xml:29:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/063d117b72dfd43da187fcda389aef12/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/063d117b72dfd43da187fcda389aef12/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/8cf08c2b9f5c0e395ab5097a04285646/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/8cf08c2b9f5c0e395ab5097a04285646/AndroidManifest.xml:2:3-17
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/3d9226f77c01c2d51a9aff75742c990c/AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/3d9226f77c01c2d51a9aff75742c990c/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/bd3cf253a4e308c4d09cccde1b2eec3b/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/bd3cf253a4e308c4d09cccde1b2eec3b/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/25ebd6078086c5cd8f9928e9826caec0/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/25ebd6078086c5cd8f9928e9826caec0/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/e46813fc4caadd2ab6c0fc04bbd17770/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/e46813fc4caadd2ab6c0fc04bbd17770/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/7138f7691f4b86384e4311d67c214c00/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/7138f7691f4b86384e4311d67c214c00/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/227c6a44ea2b814989c3039441497c13/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/227c6a44ea2b814989c3039441497c13/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/37a165c1ab8b2f34dd498402c22734fd/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/37a165c1ab8b2f34dd498402c22734fd/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/2784fc4dfe76b7fb14682741fa6c92ad/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/2784fc4dfe76b7fb14682741fa6c92ad/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.myfirstapp.MainActivity
+ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:24:7-84
+MERGED from [:react-native-navigation] /Users/imgstudios/my-first-app/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-17:40
+MERGED from [:react-native-navigation] /Users/imgstudios/my-first-app/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [:react-native-navigation] /Users/imgstudios/my-first-app/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:24:17-81
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:25:7-27:63
+	android:value
+		ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:27:6-61
+	android:name
+		ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:26:6-51
+uses-sdk
+INJECTED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-maps] /Users/imgstudios/my-first-app/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/imgstudios/my-first-app/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-navigation] /Users/imgstudios/my-first-app/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] /Users/imgstudios/my-first-app/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/imgstudios/my-first-app/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/imgstudios/my-first-app/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/d1cc8a18c14407a0d66f330ac50ffa64/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/d1cc8a18c14407a0d66f330ac50ffa64/AndroidManifest.xml:7:5-9:41
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/26327916641792104f4cfb466ad6579d/AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/26327916641792104f4cfb466ad6579d/AndroidManifest.xml:8:5-10:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/364b2d003c131dc1a010eabea614ee61/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/364b2d003c131dc1a010eabea614ee61/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/dc5cc353519c84e18901349e881de746/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/dc5cc353519c84e18901349e881de746/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9bf45933c2ffd98b560bacd64defe904/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9bf45933c2ffd98b560bacd64defe904/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/a9fe597bc71d6a46c0262f847a40d5d9/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/a9fe597bc71d6a46c0262f847a40d5d9/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/62fcf9a46b125ca7e5d764867674e101/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/62fcf9a46b125ca7e5d764867674e101/AndroidManifest.xml:17:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/ae2a8fc8d75bccf3ede158c1f6521a0e/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/ae2a8fc8d75bccf3ede158c1f6521a0e/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/27dc4593272a4ebf5a5f18cb1c2aaeb5/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/27dc4593272a4ebf5a5f18cb1c2aaeb5/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/bff07e2ddf4213b410710003e60df2da/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/bff07e2ddf4213b410710003e60df2da/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/a3663ab1ee610b5b681909e174613a13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/a3663ab1ee610b5b681909e174613a13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/4fcf13cae5b577e0b2a603d00f3714cc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/4fcf13cae5b577e0b2a603d00f3714cc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/6cf3b4bf344efdd10a64c203ed0070cb/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/6cf3b4bf344efdd10a64c203ed0070cb/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/f5575d076361bc4506f1639a631677f0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/f5575d076361bc4506f1639a631677f0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/507a4dacc0821030410a90c1a4e7df8b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/507a4dacc0821030410a90c1a4e7df8b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/063d117b72dfd43da187fcda389aef12/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/063d117b72dfd43da187fcda389aef12/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/0062f05550f21b860ac0cd95c6e84ab1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/0062f05550f21b860ac0cd95c6e84ab1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/c7a7b188fc21dd267a355df5cde4ea55/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/c7a7b188fc21dd267a355df5cde4ea55/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/b99d8e5594423e8a6955d2fd171e3647/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/b99d8e5594423e8a6955d2fd171e3647/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/437d190856d80a99c64fe89ed26868a6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/437d190856d80a99c64fe89ed26868a6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/2e2be8ffe29ee4701dc7415c57a8de25/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/2e2be8ffe29ee4701dc7415c57a8de25/AndroidManifest.xml:20:5-43
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/3d9226f77c01c2d51a9aff75742c990c/AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/3d9226f77c01c2d51a9aff75742c990c/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/bd3cf253a4e308c4d09cccde1b2eec3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/bd3cf253a4e308c4d09cccde1b2eec3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/25ebd6078086c5cd8f9928e9826caec0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/25ebd6078086c5cd8f9928e9826caec0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/e46813fc4caadd2ab6c0fc04bbd17770/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/e46813fc4caadd2ab6c0fc04bbd17770/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/7138f7691f4b86384e4311d67c214c00/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/7138f7691f4b86384e4311d67c214c00/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/227c6a44ea2b814989c3039441497c13/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/227c6a44ea2b814989c3039441497c13/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/37a165c1ab8b2f34dd498402c22734fd/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/37a165c1ab8b2f34dd498402c22734fd/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/2784fc4dfe76b7fb14682741fa6c92ad/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/2784fc4dfe76b7fb14682741fa6c92ad/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/dc5cc353519c84e18901349e881de746/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] /Users/imgstudios/my-first-app/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] /Users/imgstudios/my-first-app/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:22-78
+activity#com.reactnativenavigation.controllers.NavigationActivity
+ADDED from [:react-native-navigation] /Users/imgstudios/my-first-app/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-14:86
+	android:configChanges
+		ADDED from [:react-native-navigation] /Users/imgstudios/my-first-app/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-83
+	android:name
+		ADDED from [:react-native-navigation] /Users/imgstudios/my-first-app/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:13-84
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/dc5cc353519c84e18901349e881de746/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9bf45933c2ffd98b560bacd64defe904/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9bf45933c2ffd98b560bacd64defe904/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/a3663ab1ee610b5b681909e174613a13/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/a3663ab1ee610b5b681909e174613a13/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/4fcf13cae5b577e0b2a603d00f3714cc/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/4fcf13cae5b577e0b2a603d00f3714cc/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/2e2be8ffe29ee4701dc7415c57a8de25/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/2e2be8ffe29ee4701dc7415c57a8de25/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/bd3cf253a4e308c4d09cccde1b2eec3b/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/bd3cf253a4e308c4d09cccde1b2eec3b/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/25ebd6078086c5cd8f9928e9826caec0/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/25ebd6078086c5cd8f9928e9826caec0/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/e46813fc4caadd2ab6c0fc04bbd17770/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/e46813fc4caadd2ab6c0fc04bbd17770/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/7138f7691f4b86384e4311d67c214c00/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/7138f7691f4b86384e4311d67c214c00/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/227c6a44ea2b814989c3039441497c13/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/227c6a44ea2b814989c3039441497c13/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/37a165c1ab8b2f34dd498402c22734fd/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/37a165c1ab8b2f34dd498402c22734fd/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/2784fc4dfe76b7fb14682741fa6c92ad/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/2784fc4dfe76b7fb14682741fa6c92ad/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/dc5cc353519c84e18901349e881de746/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/dc5cc353519c84e18901349e881de746/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/a9fe597bc71d6a46c0262f847a40d5d9/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/a9fe597bc71d6a46c0262f847a40d5d9/AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/a9fe597bc71d6a46c0262f847a40d5d9/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/a9fe597bc71d6a46c0262f847a40d5d9/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/a9fe597bc71d6a46c0262f847a40d5d9/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/62fcf9a46b125ca7e5d764867674e101/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/62fcf9a46b125ca7e5d764867674e101/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/62fcf9a46b125ca7e5d764867674e101/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/62fcf9a46b125ca7e5d764867674e101/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/ae2a8fc8d75bccf3ede158c1f6521a0e/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/bff07e2ddf4213b410710003e60df2da/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/bff07e2ddf4213b410710003e60df2da/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/ae2a8fc8d75bccf3ede158c1f6521a0e/AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/imgstudios/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/ae2a8fc8d75bccf3ede158c1f6521a0e/AndroidManifest.xml:9:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/imgstudios/my-first-app/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

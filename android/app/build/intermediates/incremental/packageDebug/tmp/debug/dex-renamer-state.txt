@@ -1,0 +1,4 @@
+#Fri Sep 21 13:49:26 CDT 2018
+base.0=/Users/imgstudios/my-first-app/android/app/build/intermediates/transforms/dexMerger/debug/19
+renamed.0=classes.dex
+path.0=classes.dex

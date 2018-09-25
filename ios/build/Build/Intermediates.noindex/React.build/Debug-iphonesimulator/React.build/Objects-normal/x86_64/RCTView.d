@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/imgstudios/my-first-app/node_modules/react-native/React/Views/RCTView.m \
+  /Users/imgstudios/my-first-app/node_modules/react-native/React/Views/RCTView.h \
+  /Users/imgstudios/my-first-app/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/imgstudios/my-first-app/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/imgstudios/my-first-app/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/imgstudios/my-first-app/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/imgstudios/my-first-app/node_modules/react-native/React/Views/RCTBorderDrawing.h \
+  /Users/imgstudios/my-first-app/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/imgstudios/my-first-app/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/imgstudios/my-first-app/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/imgstudios/my-first-app/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/imgstudios/my-first-app/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/imgstudios/my-first-app/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/imgstudios/my-first-app/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/imgstudios/my-first-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/imgstudios/my-first-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/imgstudios/my-first-app/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/imgstudios/my-first-app/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/imgstudios/my-first-app/node_modules/react-native/React/Modules/RCTI18nUtil.h
