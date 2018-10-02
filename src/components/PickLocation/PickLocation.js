@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import {Text, View, Button, StyleSheet, Dimensions } from 'react-native';
 
 import imagePlaceholder from "../../assets/yosemite.jpg";
-import MapView from 'react-native-maps';
+import MapView, { GOOGLE_PROVIDER } from 'react-native-maps';
 
 class PickLocation extends Component {
     state = {
@@ -21,6 +21,7 @@ class PickLocation extends Component {
     return (
         <View style = {styles.container}>
             <MapView 
+                provider = { GOOGLE_PROVIDER }
                 initialRegion={this.state.focusedLocation} 
                 style = {styles.map}
             />
